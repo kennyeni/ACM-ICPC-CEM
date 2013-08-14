@@ -1,3 +1,5 @@
+<center>![](http://finds.org.uk/assets/github-logo.png)</center>
+
 ACM-ICPC-CEM
 ============
 
